@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="Third navbar example">
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top mb-5" aria-label="Third navbar example">
     <div class="container-fluid">
         <a class="navbar-brand" href="#"><img src="./img/api.webp" alt="" srcset="" height="70"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03"
